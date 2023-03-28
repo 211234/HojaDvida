@@ -1,0 +1,88 @@
+.infoIzquierda{
+    height: 1595px;
+    width: 555px;
+    background-color: #2194FF;
+}
+
+.imgIng{
+    height: 10vh;
+    border-radius: 100%;
+    width: 400px;
+    height: 400px;
+    left: 77px;
+    top: 47px;
+    margin-left: 75px;
+    margin-top: 15px;
+}
+
+.container_Idi{
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 6%;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.container_Pas{
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 6%;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.container_Len{
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 6%;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.imgLen{
+    height: 10vh;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+
+.infoPer{
+    position: absolute;
+    width: 846px;
+    height: 432px;
+    left: 580px;
+    top: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.perfil{
+    position: absolute;
+    width: 796px;
+    height: 256px;
+    left: 605px;
+    top: 500px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.expLab{
+    position: absolute;
+    width: 796px;
+    height: 207px;
+    left: 606px;
+    top: 850px;
+    margin-left: 15px;
+    margin-right: 15px;
+    
+}
+
+.forAca{
+    position: absolute;
+    width: 796px;
+    height: 285px;
+    left: 614px;
+    top: 1263px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
